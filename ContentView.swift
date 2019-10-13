@@ -1,11 +1,3 @@
-//
-//  ContentView.swift
-//  UnitConverter
-//
-//  Created by Tyson Junkers (HYTORC) on 10/11/19.
-//  Copyright © 2019 LetsTalkSwiftUI. All rights reserved.
-//
-
 import SwiftUI
 
 struct ContentView: View {
